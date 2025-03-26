@@ -1,10 +1,10 @@
 # Site settings
-title: Rango's Blog
-SEOTitle: Rango Blog
+title: The Hadoop Hub
+SEOTitle: The Hadoop Hub
 header-img: img/home-bg.jpg
 email: rangonomics@gmail.com
-description: "Rango's Blog Page | Learning, Lifestyle, Experiences"
-keyword: "Rango, Rango Blog, Github Pages, Web, JavaScript, React, React Native"
+description: "The Hadoop Hub Page | Learning, Lifestyle, Experiences"
+keyword: "Rango, The Hadoop Hub, Github Pages, Web, JavaScript, React, React Native"
 url: "guilyx.github.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
